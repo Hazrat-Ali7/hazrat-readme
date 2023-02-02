@@ -1,6 +1,7 @@
- <h1 align="center">Hi 👋, I'm Hazrat Ali</h1>
-<h3 align="center">I'm a passionate MERN Stack Developer from Bangladesh</h3>
-<img aling="right" alt="Codding" width="1000"src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<h1 align="center">Hi 👋, I'm Hazrat Ali</h1>
+<h3 align="center">I'm a passionate MERN Stack Developer From Bangladesh</h3>
+ 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazrat-ali7&label=Profile%20views&color=0e75b6&style=flat" alt="hazrat-ali7" /> </p>
